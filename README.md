@@ -1,4 +1,4 @@
-# Gulp - сборка MaxGraph
+# Gulp - сборка MochalovHunter
 
 > Используется Gulp 4
 
